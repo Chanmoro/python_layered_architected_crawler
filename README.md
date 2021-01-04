@@ -1,1 +1,2 @@
-# python_crawler_layered_architecture
+<<<<<<< HEAD
+# python_layered_architected_crawler
